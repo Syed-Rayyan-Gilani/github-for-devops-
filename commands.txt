@@ -40,3 +40,25 @@
    40  git status
    41  restore .
    42  history
+ 45  git status
+   46  git add commands.txt
+   47  git add commands.txt
+   48  ls
+   49  ls
+   50  git add commands.txt
+   51  git status
+   52  git remote add origin https://github.com/Syed-Rayyan-Gilani/github-for-devops-.git
+   53  git push origin master
+   54  python hello.py
+   55  ls
+   56  python hello.py
+   57  git add .
+   58  git staus
+   59  git status
+   60  git commit -m "new file"
+   61  git status
+   62  git push
+   63  git remote -v
+   64  git branch
+   65  git push -u origin master
+   66  history
